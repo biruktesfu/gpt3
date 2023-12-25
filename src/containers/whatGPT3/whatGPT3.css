@@ -1,0 +1,13 @@
+.gpt3__whatgpt3 {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  background: var(--color-footer);
+
+  /* global 94%+ browsers support */
+  background: linear-gradient(
+    140deg,
+    rgba(3, 47, 86, 1) 80%,
+    rgba(91, 199, 255, 1) 120%
+  );
+}
